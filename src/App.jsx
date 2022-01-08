@@ -191,8 +191,9 @@ useEffect(() => {
         </div>
 
         <div className="bio">
-        I am Anthony, a Software Engineer with professional experience building cool stuff. This is a Web3 DAPP Project
-         Connect your Ethereum wallet and wave at me!
+        I am Anthony, a Software Engineer with professional experience building cool stuff. This is a Web3 DAPP Project.
+        
+        Connect your Ethereum wallet and wave at me!
         </div>
         <br />
         <br />
