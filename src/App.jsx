@@ -163,7 +163,7 @@ useEffect(() => {
         setWaveProgress('Mined .... Waving in Completed')
 
 
-        setTimeout(() => setWaveProgress('Wave At Me Again'), 5000)
+        setTimeout(() => setWaveProgress('Wave At Me Again after 2 Minutes'), 5000)
 
         count = await wavePortalContract.getTotalWaves();
         console.log("Retrieved total wave count...", count.toNumber());
